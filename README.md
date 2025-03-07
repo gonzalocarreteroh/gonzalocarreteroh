@@ -4,7 +4,6 @@
 - 👨‍💻 You can find in this account some of the projects I have developed during my undergrad as well as some personal projects
 - 📫 Ways to contact me: gonzac0512@gmail.com, [linkedin.com/in/gonzalo-carretero-cs/](https://www.linkedin.com/in/gonzalo-carretero-cs/)
 
-
 <!--
 **gonzalocarreteroh/gonzalocarreteroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
