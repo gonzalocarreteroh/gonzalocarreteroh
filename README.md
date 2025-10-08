@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Gonzalo Carretero
 - 🎓 BEng Computer Science and Engineering @ University of Waterloo 🇨🇦, The Hong Kong University of Science and Technology  (HKUST) 🇭🇰 and UC3M 🇪🇸
-- 💼 Prev Intern @ Inetum
-- 👨‍💻 You can find in this account some of the projects I have developed during my undergrad as well as some personal projects
+- 💼 Software Engineer @ MasOrange
 - 📫 Ways to contact me: gonzac0512@gmail.com, [linkedin.com/in/gonzalo-carretero-cs/](https://www.linkedin.com/in/gonzalo-carretero-cs/)
 
+
 <!--
+![gonzalocarreteroh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalocarreteroh&theme=default&show_icons=true&hide_border=true&layout=compact)
+
 **gonzalocarreteroh/gonzalocarreteroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
