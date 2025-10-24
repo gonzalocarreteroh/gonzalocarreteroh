@@ -1,7 +1,7 @@
 [//]: # (My profile)
 
 <p align="center">
-  <img src="imgs/github_banner.jpg" alt="Gonzalo Carretero Banner" width="50%" style="max-width:900px; border-radius:10px;" />
+  <img src="imgs/github_banner.jpg" alt="Gonzalo Carretero Banner" width="65%" style="max-width:900px; border-radius:10px;" />
 </p>
 <p align="center">
 A good memory hiking through the Canadian Rockies at the beautiful Banff National Park
@@ -9,16 +9,15 @@ A good memory hiking through the Canadian Rockies at the beautiful Banff Nationa
 
 # Hi! I'm Gonzalo Carretero
 
-I am a Computer Science graduate with passion for solving hard problems, algorithms and the field of AI (mainly Computer Vision).
+I am a Computer Science Engineer graduate with passion for algorithms and the field of AI (mainly Computer Vision).
 
 ## Experience
 
 <table>
   <tr>
-    <td width="70">
+    <td width="110">
       <a href="https://masorange.es/en/">
-        <img src="imgs/logo_maso_lightmode.svg#gh-light-mode-only" width="60" alt="MasOrange logo">
-        <img src="imgs/logo_maso_darkmode.png#gh-dark-mode-only" width="60" alt="MasOrange logo">
+        <img src="imgs/logo_maso_lightmode.svg#gh-light-mode-only" width="100" alt="MasOrange logo">
       </a>
     </td>
     <td>
@@ -27,10 +26,9 @@ I am a Computer Science graduate with passion for solving hard problems, algorit
       <em>Sep 2025 – Present</em>
   </tr>
   <tr>
-    <td width="70">
+    <td width="110">
       <a href="https://www.inetum.com/en/Inetum">
-        <img src="imgs/logo_inetum_lightmode.png#gh-light-mode-only" width="60" alt="Inetum logo">
-        <img src="imgs/logo_inetum_darkmode.jpg#gh-dark-mode-only" width="60" alt="Inetum logo">
+        <img src="imgs/logo_inetum_lightmode.png#gh-light-mode-only" width="100" alt="Inetum logo">
       </a>
     </td>
     <td>
@@ -44,10 +42,9 @@ I am a Computer Science graduate with passion for solving hard problems, algorit
 
 <table>
   <tr>
-    <td width="70">
+    <td width="75">
       <a href="https://hkust.edu.hk/">
-        <img src="imgs/logo_hkust.png#gh-light-mode-only" width="45" alt="HKUST logo">
-        <img src="imgs/logo_hkust.png#gh-dark-mode-only" width="45" alt="HKUST logo">
+        <img src="imgs/logo_hkust.png#gh-light-mode-only" width="40" alt="HKUST logo">
       </a>
     </td>
     <td>
@@ -56,10 +53,9 @@ I am a Computer Science graduate with passion for solving hard problems, algorit
       <em>Sep 2024 – May 2025 • Exchange</em>
   </tr>
   <tr>
-    <td width="70">
+    <td width="75">
       <a href="https://uwaterloo.ca/">
-        <img src="imgs/logo_uw.png#gh-light-mode-only" width="50" alt="UW logo">
-        <img src="imgs/logo_uw.png#gh-dark-mode-only" width="50" alt="UW logo">
+        <img src="imgs/logo_uw.png#gh-light-mode-only" width="55" alt="UW logo">
       </a>
     </td>
     <td>
@@ -68,10 +64,9 @@ I am a Computer Science graduate with passion for solving hard problems, algorit
       <em>Sep 2023 – Apr 2024 • Exchange • GPA: 3.8/4.0</em>
   </tr>
   <tr>
-    <td width="70">
+    <td width="75">
       <a href="https://www.uc3m.es/home">
-        <img src="imgs/logo_uc3m.png#gh-light-mode-only" width="50" alt="UC3M logo">
-        <img src="imgs/logo_uc3m.png#gh-dark-mode-only" width="50" alt="UC3M logo">
+        <img src="imgs/logo_uc3m.png#gh-light-mode-only" width="55" alt="UC3M logo">
       </a>
     </td>
     <td>
