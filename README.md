@@ -1,7 +1,7 @@
 [//]: # (My profile)
 
 <p align="center">
-  <img src="imgs/github_banner.jpg" alt="Gonzalo Carretero Banner" width="60%" style="max-width:900px; border-radius:10px;" />
+  <img src="imgs/github_banner.jpg" alt="Gonzalo Carretero Banner" width="40%" style="max-width:900px; border-radius:10px;" />
 </p>
 <p align="center">
 A good memory hiking through the beautiful Canadian Rockies at Banff National Park
@@ -16,7 +16,7 @@ I am a Computer Science Engineer graduate with passion for algorithms and the fi
   <img src="imgs/mitosis.gif" alt="Cells" width="37%" />
 </p>
 
-I have spent several months working on improving state of the art models in the domain of Multiple Object Tracking, under the guidance of Prof. Miguel Ángle Patrcio and Prof. Juan Pedro Llerena from the Group of Applied Artificial Intelligence Lab (GIAA). Above is a small video of one of our models on the MOT15 benchmark.
+I have spent several months working on improving state of the art models in the domain of Multiple Object Tracking, under the guidance of Prof. Miguel Ángle Patrcio and Prof. Juan Pedro Llerena from the Group of Applied Artificial Intelligence Lab (GIAA).
 
 ## Experience
 
@@ -213,6 +213,7 @@ I have spent several months working on improving state of the art models in the 
 
 ## Contact
 
+I am always open to new connections and collaboration!
 <p>
     <a href="mailto:gonzac0512@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
