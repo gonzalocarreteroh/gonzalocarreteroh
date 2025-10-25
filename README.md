@@ -12,12 +12,8 @@ A good memory hiking through the beautiful Canadian Rockies at Banff National Pa
 I am a Computer Science Engineer graduate with passion for algorithms and the field of AI (mainly Computer Vision).
 
 <p align="center">
-  <img src="imgs/MOT15.gif" width="600" alt="Pedestrians" />
-</p>
-
-<p align="center">
-  <img src="imgs/MOT15.gif" alt="Pedestrians" width="45%" />
-  <img src="imgs/mitosis.gif" alt="Cells" width="45%" />
+  <img src="imgs/MOT15.gif" alt="Pedestrians" width="53%" />
+  <img src="imgs/mitosis.gif" alt="Cells" width="37%" />
 </p>
 
 I have spent several months working on improving state of the art models in the domain of Multiple Object Tracking, under the guidance of Prof. Miguel Ángle Patrcio and Prof. Juan Pedro Llerena from the Group of Applied Artificial Intelligence Lab (GIAA). Above is a small video of one of our models on the MOT15 benchmark.
