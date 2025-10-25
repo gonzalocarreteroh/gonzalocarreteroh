@@ -1,17 +1,24 @@
 [//]: # (My profile)
 
 <p align="center">
-  <img src="imgs/github_banner.jpg" alt="Gonzalo Carretero Banner" width="65%" style="max-width:900px; border-radius:10px;" />
+  <img src="imgs/github_banner.jpg" alt="Gonzalo Carretero Banner" width="60%" style="max-width:900px; border-radius:10px;" />
 </p>
 <p align="center">
-A good memory hiking through the Canadian Rockies at the beautiful Banff National Park
+A good memory hiking through the beautiful Canadian Rockies at Banff National Park
 </p>
 
 # Hi! I'm Gonzalo Carretero
 
 I am a Computer Science Engineer graduate with passion for algorithms and the field of AI (mainly Computer Vision).
 
+<p align="center">
+  <img src="imgs/MOT15.gif" width="600" alt="Pedestrians" />
+</p>
 
+<p align="center">
+  <img src="imgs/MOT15.gif" alt="Pedestrians" width="45%" />
+  <img src="imgs/mitosis.gif" alt="Cells" width="45%" />
+</p>
 
 I have spent several months working on improving state of the art models in the domain of Multiple Object Tracking, under the guidance of Prof. Miguel Ángle Patrcio and Prof. Juan Pedro Llerena from the Group of Applied Artificial Intelligence Lab (GIAA). Above is a small video of one of our models on the MOT15 benchmark.
 
