@@ -1,11 +1,12 @@
 [//]: # (My profile)
 
-<p align="center">
+<div align="center">
   <img src="imgs/github_banner.jpg" alt="Gonzalo Carretero Banner" width="40%" style="max-width:900px; border-radius:10px;" />
-</p>
-<p align="center">
-A good memory hiking through the beautiful Canadian Rockies at Banff National Park
-</p>
+  <p style="margin-top: -5px;">
+    <sub>A good memory hiking through the beautiful Canadian Rockies at Banff National Park</sub>
+  </p>
+</div>
+
 
 # Hi! I'm Gonzalo Carretero
 
