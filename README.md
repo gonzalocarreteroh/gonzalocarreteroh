@@ -1,15 +1,23 @@
 [//]: # (My profile)
 
-<p align="center">
-  <img src="imgs/github_banner.jpg" alt="Gonzalo Carretero Banner" width="65%" style="max-width:900px; border-radius:10px;" />
-</p>
-<p align="center">
-A good memory hiking through the Canadian Rockies at the beautiful Banff National Park
-</p>
+<div align="center">
+  <img src="imgs/github_banner.jpg" alt="Gonzalo Carretero Banner" width="40%" style="max-width:900px; border-radius:10px;" />
+  <p style="margin-top: -5px;">
+    <sub>A good memory hiking through the beautiful Canadian Rockies at Banff National Park</sub>
+  </p>
+</div>
+
 
 # Hi! I'm Gonzalo Carretero
 
 I am a Computer Science Engineer graduate with passion for algorithms and the field of AI (mainly Computer Vision).
+
+<p align="center">
+  <img src="imgs/MOT15.gif" alt="Pedestrians" width="53%" />
+  <img src="imgs/mitosis.gif" alt="Cells" width="37%" />
+</p>
+
+I have spent several months working on improving state of the art models in the domain of Multiple Object Tracking, under the guidance of Prof. Miguel Ángle Patrcio and Prof. Juan Pedro Llerena from the Group of Applied Artificial Intelligence Lab (GIAA).
 
 ## Experience
 
@@ -206,6 +214,7 @@ I am a Computer Science Engineer graduate with passion for algorithms and the fi
 
 ## Contact
 
+I am always open to new connections and collaboration!
 <p>
     <a href="mailto:gonzac0512@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
