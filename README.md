@@ -11,6 +11,10 @@ A good memory hiking through the Canadian Rockies at the beautiful Banff Nationa
 
 I am a Computer Science Engineer graduate with passion for algorithms and the field of AI (mainly Computer Vision).
 
+
+
+I have spent several months working on improving state of the art models in the domain of Multiple Object Tracking, under the guidance of Prof. Miguel Ángle Patrcio and Prof. Juan Pedro Llerena from the Group of Applied Artificial Intelligence Lab (GIAA). Above is a small video of one of our models on the MOT15 benchmark.
+
 ## Experience
 
 <table>
