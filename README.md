@@ -80,7 +80,7 @@ I have spent several months working on improving state of the art models in the 
     <td>
       <strong>BEng Computer Science and Engineering</strong> — <a href="https://www.uc3m.es/home" target="_blank">Universidad Carlos III de Madrid</a>
       <br>
-      <em>Sep 2021 – Aug 2025 • GPA: 8.8/10</em>
+      <em>Sep 2021 – Aug 2025 • Bilingual •GPA: 8.73/10</em>
   </tr>
 </table>
 
@@ -159,11 +159,14 @@ I have spent several months working on improving state of the art models in the 
   <a href="https://kubernetes.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=kubernetes" />
   </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCoTa5-PIY5zsjcrafZuQA_BmVebR9IDhwWg&s" width="48" alt="Helm" style="margin: 0 4px;/>
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://skillicons.dev/icons?i=githubactions" />
   </a>
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman" />
