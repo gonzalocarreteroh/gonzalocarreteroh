@@ -10,7 +10,7 @@
 
 # Hi! I'm Gonzalo Carretero
 
-I am a Computer Science Engineer graduate with passion for algorithms and the field of AI (mainly Computer Vision).
+I am a Computer Science Engineer graduate with passion for algorithms and the field of AI.
 
 <p align="center">
   <img src="imgs/MOT15.gif" alt="Pedestrians" width="53%" />
