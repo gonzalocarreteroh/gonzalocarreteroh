@@ -17,7 +17,7 @@ I am a Computer Science Engineer graduate with passion for algorithms and the fi
   <img src="imgs/mitosis.gif" alt="Cells" width="37%" />
 </p>
 
-I have spent several months working on improving state of the art models in the domain of Multiple Object Tracking, under the guidance of Prof. Miguel Ángle Patrcio and Prof. Juan Pedro Llerena from the Group of Applied Artificial Intelligence Lab (GIAA). Currently, we have one paper under peer review at Information Sciences: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5867973
+I have spent several months working on improving state of the art models in the domain of Multiple Object Tracking, under the guidance of Prof. Miguel Ángle Patrcio and Prof. Juan Pedro Llerena from the Group of Applied Artificial Intelligence Lab (GIAA). Currently, we have one paper under peer review: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5867973
 
 ## Experience
 
