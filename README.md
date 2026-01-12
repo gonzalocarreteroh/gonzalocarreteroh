@@ -153,6 +153,9 @@ I have spent several months working on improving state of the art models in the 
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" />
   </a>
+  <a href="https://cloud.google.com/?hl=en" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gcp" />
+  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
