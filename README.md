@@ -144,7 +144,7 @@ I have spent several months working on improving state of the art models in the 
     <img src="https://skillicons.dev/icons?i=express" />
   </a>
   <a href="https://hadoop.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/2560px-Hadoop_logo.svg.png" width="150" alt="Hadoop" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="150" alt="Hadoop" />
   </a>
 </p>
 
