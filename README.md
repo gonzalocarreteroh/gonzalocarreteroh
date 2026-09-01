@@ -29,9 +29,20 @@ I have spent several months working on improving state of the art models in the 
       </a>
     </td>
     <td>
+      <strong>AI Engineer</strong> — <a href="https://masorange.es/en/" target="_blank">MasOrange</a>
+      <br>
+      <em>Feb 2026 – Present</em>
+  </tr>
+  <tr>
+    <td width="110">
+      <a href="https://masorange.es/en/" target="_blank">
+        <img src="imgs/logo_maso_lightmode.svg#gh-light-mode-only" width="100" alt="MasOrange logo">
+      </a>
+    </td>
+    <td>
       <strong>Backend Software Engineer</strong> — <a href="https://masorange.es/en/" target="_blank">MasOrange</a>
       <br>
-      <em>Sep 2025 – Present</em>
+      <em>Sep 2025 – Feb 2026</em>
   </tr>
   <tr>
     <td width="110">
