@@ -239,4 +239,7 @@ I am always open to new connections and collaboration!
     <a href="https://es.linkedin.com/in/gonzalo-carretero-cs" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    <a href="https://scholar.google.com/citations?user=0J_IxjYAAAAJ&hl=es" target="_blank">
+        <img src="https://img.shields.io/badge/GoogleScholar-white?style=for-the-badge&logo=googlescholar" alt="GoogleScholar" />
+    </a>
 </p>
