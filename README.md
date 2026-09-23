@@ -31,7 +31,7 @@ I have spent several months working on improving state of the art models in the 
     <td>
       <strong>AI Engineer</strong> — <a href="https://masorange.es/en/" target="_blank">MasOrange</a>
       <br>
-      <em>Feb 2026 – Present</em>
+      <em>Feb 2026 – Sep 2026</em>
   </tr>
   <tr>
     <td width="110">
