@@ -91,7 +91,7 @@ I have spent several months working on improving state of the art models in the 
     <td>
       <strong>BEng Computer Science and Engineering</strong> — <a href="https://www.uc3m.es/home" target="_blank">Universidad Carlos III de Madrid</a>
       <br>
-      <em>Sep 2021 – Aug 2025 • Bilingual •GPA: 8.73/10</em>
+      <em>Sep 2021 – Sep 2025 • Bilingual •GPA: 8.73/10</em>
   </tr>
 </table>
 
