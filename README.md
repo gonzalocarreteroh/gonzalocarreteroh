@@ -62,6 +62,17 @@ I have spent several months working on improving state of the art models in the 
 <table>
   <tr>
     <td width="75">
+      <a href="https://www.imperial.ac.uk/" target="_blank">
+        <img src="imgs/logo_imperial.png#gh-light-mode-only" width="40" alt="Imperial logo">
+      </a>
+    </td>
+    <td>
+      <strong>MSc Advanced Computing</strong> — <a href="https://www.imperial.ac.uk/" target="_blank">Imperial College London</a>
+      <br>
+      <em>Sep 2026 – Sep 2026</em>
+  </tr>
+  <tr>
+    <td width="75">
       <a href="https://hkust.edu.hk/" target="_blank">
         <img src="imgs/logo_hkust.png#gh-light-mode-only" width="40" alt="HKUST logo">
       </a>
