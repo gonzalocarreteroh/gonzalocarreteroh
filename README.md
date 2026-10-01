@@ -62,8 +62,8 @@ I have spent several months working on improving state of the art models in the 
 <table>
   <tr>
     <td width="75">
-      <a href="https://www.imperialcollegelondon.ac.uk/" target="_blank">
-        <img src="imgs/logo_imperial.png" width="40" alt="Imperial logo">
+      <a href="https://www.imperial.ac.uk/" target="_blank">
+        <img src="imgs/logo_imperialcollegelondon.png" width="40" alt="Imperial logo">
       </a>
     </td>
     <td>
