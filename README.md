@@ -63,7 +63,7 @@ I have spent several months working on improving state of the art models in the 
   <tr>
     <td width="75">
       <a href="https://www.imperial.ac.uk/" target="_blank">
-        <img src="imgs/logo_imperial.png#gh-light-mode-only" width="40" alt="Imperial logo">
+        <img src="imgs/logo_imperial.png" width="40" alt="Imperial logo">
       </a>
     </td>
     <td>
