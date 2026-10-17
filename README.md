@@ -10,7 +10,7 @@
 
 # Hi! I'm Gonzalo Carretero
 
-I am a Computer Science Engineer graduate with passion for algorithms and the field of AI. Please checkout my personal website if you'd like to know a bit more about me: https://gonzalocarreteroh.github.io/
+I am an MSc Advanced Computing student at Imperial College London with passion for algorithms and the field of AI. Please checkout my personal website if you'd like to know a bit more about me: https://gonzalocarreteroh.github.io/
 
 <p align="center">
   <img src="imgs/MOT15.gif" alt="Pedestrians" width="53%" />
@@ -69,7 +69,7 @@ I have spent several months working on improving state of the art models in the 
     <td>
       <strong>MSc Advanced Computing</strong> — <a href="https://www.imperial.ac.uk/" target="_blank">Imperial College London</a>
       <br>
-      <em>Sep 2026 – Sep 2026</em>
+      <em>Sep 2026 – Sep 2027</em>
   </tr>
   <tr>
     <td width="75">
